@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55199\\source\\repos\\JogoCasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B820BCC-0319-4F12-A6F8-F14D75B81DFC}|JogoCasa.vcxproj|C:\\Users\\55199\\source\\repos\\JogoCasa\\Comodo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B820BCC-0319-4F12-A6F8-F14D75B81DFC}|JogoCasa.vcxproj|solutionrelative:Comodo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B820BCC-0319-4F12-A6F8-F14D75B81DFC}|JogoCasa.vcxproj|C:\\Users\\55199\\source\\repos\\JogoCasa\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B820BCC-0319-4F12-A6F8-F14D75B81DFC}|JogoCasa.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B820BCC-0319-4F12-A6F8-F14D75B81DFC}|JogoCasa.vcxproj|C:\\Users\\55199\\source\\repos\\JogoCasa\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B820BCC-0319-4F12-A6F8-F14D75B81DFC}|JogoCasa.vcxproj|solutionrelative:Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B820BCC-0319-4F12-A6F8-F14D75B81DFC}|JogoCasa.vcxproj|C:\\Users\\55199\\source\\repos\\JogoCasa\\Casa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B820BCC-0319-4F12-A6F8-F14D75B81DFC}|JogoCasa.vcxproj|solutionrelative:Casa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Casa.cpp",
+              "DocumentMoniker": "C:\\Users\\55199\\source\\repos\\JogoCasa\\Casa.cpp",
+              "RelativeDocumentMoniker": "Casa.cpp",
+              "ToolTip": "C:\\Users\\55199\\source\\repos\\JogoCasa\\Casa.cpp",
+              "RelativeToolTip": "Casa.cpp",
+              "ViewState": "AQIAAAQAAADAzszMzEwawA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T13:25:06.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comodo.cpp",
+              "DocumentMoniker": "C:\\Users\\55199\\source\\repos\\JogoCasa\\Comodo.cpp",
+              "RelativeDocumentMoniker": "Comodo.cpp",
+              "ToolTip": "C:\\Users\\55199\\source\\repos\\JogoCasa\\Comodo.cpp",
+              "RelativeToolTip": "Comodo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T13:24:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\55199\\source\\repos\\JogoCasa\\Item.cpp",
+              "RelativeDocumentMoniker": "Item.cpp",
+              "ToolTip": "C:\\Users\\55199\\source\\repos\\JogoCasa\\Item.cpp",
+              "RelativeToolTip": "Item.cpp",
+              "ViewState": "AQIAAAYAAABgAAAAAAABwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T13:22:52.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\55199\\source\\repos\\JogoCasa\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\55199\\source\\repos\\JogoCasa\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T13:22:20.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
