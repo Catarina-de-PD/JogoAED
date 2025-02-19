@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"README",
+  "name":"README",
+  "parent":{
+    "name":"JogoCasa3",
+    "path":"JogoCasa3.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
